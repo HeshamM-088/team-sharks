@@ -1,7 +1,8 @@
 const Home = () => {
   return (
     <div className="flex flex-col justify-center items-center py-4">
-      <h1>Home Updated By HISHAM</h1>
+      <p>Hello</p>
+      <h1>Hisham</h1>
     </div>
   );
 };
