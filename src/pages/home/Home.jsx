@@ -1,9 +1,7 @@
-const Home = () => {
-  return (
-    <div className="flex flex-col justify-center items-center py-4">
-      <h1>Home Updated By HISHAM</h1>
-    </div>
-  );
+import React from "react";
+
+const MyHome = () => {
+  return <div>Home</div>;
 };
 
-export default Home;
+export default MyHome;
